@@ -32,7 +32,7 @@ B.S in Business Administration
 
 ## Experience
 
-**Teaching Assistant**
+**Teaching Assistant** (Seoul National University)
 
 - Mathematical Foundations of Deep Neural Networks, M1407.001200, Fall 2022.
 - Topics in Applied Mathematics: Infinitely Large Neural Networks, 3341.751, Spring 2022.
