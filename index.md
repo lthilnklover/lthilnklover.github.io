@@ -2,10 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Publications 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Diffusion Probabilistic Models Generalize when They Fail to Memorize]([https://openreview.net/forum?id=shciCbSk9h](https://openreview.net/pdf?id=shciCbSk9h))
+TaeHo Yoon, Joo Young Choi, Sehyun Kwon, Ernest K. Ryu
+<br>
+ICML 2023 Workshop SPIGM
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
