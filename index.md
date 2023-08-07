@@ -14,8 +14,24 @@ Sehyun Kwon, Joo Young Choi, Ernest K. Ryu. *ICML 2023*
 Jongmin Lee, Joo Young Choi, Erenst K. Ryu, Albert No. *ICML 2022*
 
 ---
+### Education
 
-### Category Name 2
+**Seoul National University** (September 2018 - )
+<br>
+Ph.D in Mathematical Sciences
+
+**Korea University** (March 2012 - August 2018)
+<br>
+B.S in Mathematics
+B.S in Business Administration
+
+---
+
+### Experience
+
+**Teaching Assistant**
+
+
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -24,6 +40,8 @@ Jongmin Lee, Joo Young Choi, Erenst K. Ryu, Albert No. *ICML 2022*
 - [Project 5 Title](http://example.com/)
 
 ---
+
+### Education
 
 
 
