@@ -4,18 +4,14 @@
 
 ### Publications 
 
-[Diffusion Probabilistic Models Generalize when They Fail to Memorize]([https://openreview.net/forum?id=shciCbSk9h](https://openreview.net/pdf?id=shciCbSk9h))
-TaeHo Yoon, Joo Young Choi, Sehyun Kwon, Ernest K. Ryu
-<br>
-ICML 2023 Workshop SPIGM
+[Diffusion Probabilistic Models Generalize when They Fail to Memorize](https://openreview.net/forum?id=shciCbSk9h)
+TaeHo Yoon, Joo Young Choi, Sehyun Kwon, Ernest K. Ryu. *ICML 2023 Workshop SPIGM*
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Rotation and Translation Invariant Representation Learning with Implicit Neural Representations](http://proceedings.mlr.press/v202/kwon23a/kwon23a.pdf)
+Sehyun Kwon, Joo Young Choi, Ernest K. Ryu. *ICML 2023*
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Neural Tangent Kernel Analysis of Deep Narrow Neural Networks](https://proceedings.mlr.press/v162/lee22a.html)
+Jongmin Lee, Joo Young Choi, Erenst K. Ryu, Albert No. *ICML 2022*
 
 ---
 
