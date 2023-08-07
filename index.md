@@ -13,7 +13,7 @@ TaeHo Yoon, Joo Young Choi, Sehyun Kwon, Ernest K. Ryu. *ICML 2023 Workshop SPIG
 Sehyun Kwon, Joo Young Choi, Ernest K. Ryu. *ICML 2023*
 
 [Neural Tangent Kernel Analysis of Deep Narrow Neural Networks](https://proceedings.mlr.press/v162/lee22a.html)
-Jongmin Lee, Joo Young Choi, Erenst K. Ryu, Albert No. *ICML 2022*
+Jongmin Lee, Joo Young Choi, Ernest K. Ryu, Albert No. *ICML 2022*
 
 ---
 ## Education
