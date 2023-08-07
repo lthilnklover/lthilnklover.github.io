@@ -36,5 +36,23 @@ B.S in Business Administration
 - Topics in Applied Mathematics: Infinitely Large Neural Networks, 3341.751, Spring 2022.
 - Mathematical Foundations of Deep Neural Networks, M1407.001200, Fall 2021.
 
-## Paper Reviews
+---
+
+## Study
+
+Study of papers that are of personal interest
+
+*Git Re-Basin: Merging Models modulo Permutation Symmetries* [Slides](pdf/git_rebasin.pdf) [Paper](https://openreview.net/forum?id=CQsmMYmlP5T) 
+
+
+
+
+
+
+
+
+
+
+
+
 
