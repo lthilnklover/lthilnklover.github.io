@@ -1,6 +1,6 @@
 ## About
 
-I am Ph.D. student of Mathematical Sciences at Seoul National University, advised by Professor [Ernest K. Ryu](https://ernestryu.com). My currently interested in generative models, especially diffusion probabilistic models and large language models.
+I am Ph.D. a student of Mathematical Sciences at Seoul National University, advised by Professor [Ernest K. Ryu](https://ernestryu.com). My current interest is in generative models, especially diffusion probabilistic models and large language models.
 
 ---
 
