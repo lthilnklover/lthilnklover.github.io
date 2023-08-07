@@ -40,7 +40,7 @@ B.S in Business Administration
 
 ---
 
-## Study
+## Notes
 
 Study of papers that are of personal interest
 
