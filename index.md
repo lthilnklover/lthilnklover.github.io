@@ -23,6 +23,7 @@ Ph.D in Mathematical Sciences
 **Korea University** (March 2012 - August 2018)
 <br>
 B.S in Mathematics
+<br>
 B.S in Business Administration
 
 ---
@@ -31,17 +32,10 @@ B.S in Business Administration
 
 **Teaching Assistant**
 
+-Mathematical Foundations of Deep Neural Networks, M1407.001200, Fall 2022.
+-Topics in Applied Mathematics: Infinitely Large Neural Networks, 3341.751, Spring 2022.
+-Mathematical Foundations of Deep Neural Networks, M1407.001200, Fall 2021.
 
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-### Education
 
 
 
