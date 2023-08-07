@@ -1,8 +1,9 @@
-## Portfolio
+[Publications](#Publications) 
+[Paper Reviews](#Paper%Reviews)
 
 ---
 
-### Publications 
+## Publications 
 
 [Diffusion Probabilistic Models Generalize when They Fail to Memorize](https://openreview.net/forum?id=shciCbSk9h)
 TaeHo Yoon, Joo Young Choi, Sehyun Kwon, Ernest K. Ryu. *ICML 2023 Workshop SPIGM*
@@ -14,7 +15,7 @@ Sehyun Kwon, Joo Young Choi, Ernest K. Ryu. *ICML 2023*
 Jongmin Lee, Joo Young Choi, Erenst K. Ryu, Albert No. *ICML 2022*
 
 ---
-### Education
+## Education
 
 **Seoul National University** (September 2018 - )
 <br>
@@ -28,18 +29,13 @@ B.S in Business Administration
 
 ---
 
-### Experience
+## Experience
 
 **Teaching Assistant**
 
--Mathematical Foundations of Deep Neural Networks, M1407.001200, Fall 2022.
--Topics in Applied Mathematics: Infinitely Large Neural Networks, 3341.751, Spring 2022.
--Mathematical Foundations of Deep Neural Networks, M1407.001200, Fall 2021.
+- Mathematical Foundations of Deep Neural Networks, M1407.001200, Fall 2022.
+- Topics in Applied Mathematics: Infinitely Large Neural Networks, 3341.751, Spring 2022.
+- Mathematical Foundations of Deep Neural Networks, M1407.001200, Fall 2021.
 
+## Paper Reviews
 
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
