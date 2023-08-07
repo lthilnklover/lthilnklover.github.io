@@ -42,7 +42,9 @@ B.S in Business Administration
 
 Study of papers that are of personal interest
 
-*Git Re-Basin: Merging Models modulo Permutation Symmetries* [Slides](pdf/git_rebasin.pdf) [Paper](https://openreview.net/forum?id=CQsmMYmlP5T) 
+- *Traditional Classification Neural Networks are Good Generators: They are Competitive with DDPMs and GANs* [Slides](pdf/classifier_img_gen.pdf) / [Paper](https://arxiv.org/abs/2211.14794)
+- *Git Re-Basin: Merging Models modulo Permutation Symmetries* [Slides](pdf/git_rebasin.pdf) / [Paper](https://openreview.net/forum?id=CQsmMYmlP5T)
+
 
 
 
