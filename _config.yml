@@ -1,11 +1,11 @@
 title: Joo Young Choi # your name (or website title) here
 logo: "/images/IMG_3799.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Ph.D. Student, Mathematical Sciences, Seoul National University
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  lthilnklover@snu.ac.kr
+  <br>
+  choijy0402@gmail.com
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
