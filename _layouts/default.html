@@ -11,20 +11,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
   </head>
-  
   <body>
     <div class="wrapper">
-    </header>
-        <div id="menu" class="fas fa-bars"></div>
-        <nav class="navbar">
-            <ul>
-            <a class="active" href="#home">Home</a>
-            <a href="Publications">Publications</a>
-            <a href="#Education">Education</a>
-            <a href="#Experience">Experience</a>
-            </ul>
-        </nav>
-        
+      <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
