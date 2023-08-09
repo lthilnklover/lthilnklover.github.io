@@ -44,6 +44,7 @@ B.S in Business Administration
 
 Study of papers that are of personal interest 
 
+- *Visual Prompting via Image Inpainting* <br> [Slides](pdf/visual_prompting.pdf) / [Paper](https://openreview.net/forum?id=o4uFFg9_TpV)
 - *Trainig Data Attribution for Diffusion Models* <br> [Slides](pdf/data_attribution.pdf) / [Paper](https://arxiv.org/abs/2306.02174)
 - *Optimizing DDPM Sampling with Shortcut Fine-Tuning* <br> [Slides](pdf/sft.pdf) / [Paper](https://arxiv.org/abs/2301.13362)
 - *Unsupervised Representation Learning from Pre-trained Diffusion Probabilistic Models* <br> [Slides](pdf/unsupervised_rep_learn_ddpm.pdf) / [Paper](https://openreview.net/pdf?id=IiCsx9KNVa0)
