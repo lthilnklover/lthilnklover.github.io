@@ -24,9 +24,9 @@ Ph.D in Mathematical Sciences
 
 **Korea University** (March 2012 - August 2018)
 <br>
-B.S in Mathematics
-<br>
 B.S in Business Administration
+<br>
+B.S in Mathematics
 
 ---
 
