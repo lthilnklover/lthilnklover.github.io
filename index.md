@@ -34,7 +34,7 @@ B.S in Mathematics
 
 **Teaching Assistant** (Seoul National University)
 
-- Mathematical Foundations of Deep Neural Networks, M1407.001200, Fall 2022.
+- Mathematical Foundations of Deep Neural Networks, M1407.001200, Fall 2022. (Outstanding TA Award)
 - Topics in Applied Mathematics: Infinitely Large Neural Networks, 3341.751, Spring 2022.
 - Mathematical Foundations of Deep Neural Networks, M1407.001200, Fall 2021.
 
