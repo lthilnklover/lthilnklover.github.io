@@ -44,6 +44,7 @@ B.S in Mathematics
 
 Study of papers that are of personal interest 
 
+- *LoRA: Low-Rank Adaptation of Large Language Models* <br> [Slides](pdf/lora.pdf) / [Paper](https://arxiv.org/abs/2106.09685)
 - *Visual Prompting via Image Inpainting* <br> [Slides](pdf/visual_prompting.pdf) / [Paper](https://openreview.net/forum?id=o4uFFg9_TpV)
 - *Trainig Data Attribution for Diffusion Models* <br> [Slides](pdf/data_attribution.pdf) / [Paper](https://arxiv.org/abs/2306.02174)
 - *Optimizing DDPM Sampling with Shortcut Fine-Tuning* <br> [Slides](pdf/sft.pdf) / [Paper](https://arxiv.org/abs/2301.13362)
