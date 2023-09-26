@@ -41,8 +41,8 @@ B.S in Mathematics
 ---
 
 ## Notes
-<details>
-<summary>Study of papers that are of personal interest<br></summary>
+
+Study of papers that are of personal interest
   
 - *LoRA: Low-Rank Adaptation of Large Language Models* <br> [Slides](pdf/lora.pdf) / [Paper](https://arxiv.org/abs/2106.09685)
 - *Visual Prompting via Image Inpainting* <br> [Slides](pdf/visual_prompting.pdf) / [Paper](https://openreview.net/forum?id=o4uFFg9_TpV)
@@ -54,8 +54,6 @@ B.S in Mathematics
 - *Image as Set of Points* <br> [Slides](pdf/img_as_set_of_points.pdf) / [Paper](https://openreview.net/forum?id=awnvqZja69)
 - *Traditional Classification Neural Networks are Good Generators: They are Competitive with DDPMs and GANs* <br> [Slides](pdf/classifier_img_gen.pdf) / [Paper](https://arxiv.org/abs/2211.14794)
 - *Git Re-Basin: Merging Models modulo Permutation Symmetries* <br> [Slides](pdf/git_rebasin.pdf) / [Paper](https://openreview.net/forum?id=CQsmMYmlP5T)
-
-</details>
 
 
 
