@@ -47,6 +47,7 @@ B.S in Mathematics
 
 Study of papers that are of personal interest
 
+- *Visual Instruction Tuning* <br> [Slides](pdf/visual_instruction_tuning.pdf) / [Paper](https://openreview.net/forum?id=w0H2xGHlkw)
 - *Chain-of-Thought Prompting Elicits Reasoning in Large Language Models* <br> [Slides](pdf/chain_of_thought_prompting.pdf) / [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf)
 - *LoRA: Low-Rank Adaptation of Large Language Models* <br> [Slides](pdf/lora.pdf) / [Paper](https://arxiv.org/abs/2106.09685)
 - *Visual Prompting via Image Inpainting* <br> [Slides](pdf/visual_prompting.pdf) / [Paper](https://openreview.net/forum?id=o4uFFg9_TpV)
