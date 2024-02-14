@@ -44,6 +44,7 @@ B.S in Mathematics
 
 Study of papers that are of personal interest
 
+- *GLIGEN: Open-Set Grounded Text-to-Image Generation* <br> [Slides](pdf/gligen.pdf) / [Paper](https://arxiv.org/abs/2301.07093)
 - *SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis* <br> [Slides](pdf/sdxl.pdf) / [Paper](https://openreview.net/forum?id=di52zR8xgf)
 - *Tree of Thoughts: Deliberate Problem Solving with Large Language Models* <br> [Slides](pdf/tree_of_thoughts.pdf) / [Paper](https://arxiv.org/abs/2305.10601)
 - *Visual Instruction Tuning* <br> [Slides](pdf/visual_instruction_tuning.pdf) / [Paper](https://openreview.net/forum?id=w0H2xGHlkw)
