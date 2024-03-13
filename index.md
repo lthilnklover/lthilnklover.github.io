@@ -6,6 +6,9 @@ I am a Ph.D. student of Mathematical Sciences at Seoul National University, advi
 
 ## Publications 
 
+[LoRA can Replace Time and Class Embeddings in Diffusion Probabilistic Models](pdf/lora_diffusion.pdf)
+Joo Young Choi, Jaesung Park, Inkyu Park, Jaewoong Choi, Albert No, Ernest K. Ryu. *NeuRIPS 2023 Workshop on Diffusion Models*
+
 [Diffusion Probabilistic Models Generalize when They Fail to Memorize](https://openreview.net/forum?id=shciCbSk9h)
 TaeHo Yoon, Joo Young Choi, Sehyun Kwon, Ernest K. Ryu. *ICML 2023 Workshop SPIGM*
 
@@ -44,6 +47,7 @@ B.S in Mathematics
 
 Study of papers that are of personal interest
 
+- *What Do We Learn from Inverting CLIP Models?* <br> [Slides](pdf/clip_inversion.pdf) / [Paper](https://arxiv.org/abs/2403.02580)
 - *GLIGEN: Open-Set Grounded Text-to-Image Generation* <br> [Slides](pdf/gligen.pdf) / [Paper](https://arxiv.org/abs/2301.07093)
 - *SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis* <br> [Slides](pdf/sdxl.pdf) / [Paper](https://openreview.net/forum?id=di52zR8xgf)
 - *Tree of Thoughts: Deliberate Problem Solving with Large Language Models* <br> [Slides](pdf/tree_of_thoughts.pdf) / [Paper](https://arxiv.org/abs/2305.10601)
