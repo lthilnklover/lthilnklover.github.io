@@ -48,6 +48,7 @@ B.S in Mathematics
 
 Study of papers that are of personal interest
 
+- *T-MARS: Improving Visual Representations by Circumventing Text Feature Learning* <br> [Slides](pdf/t-mars.pdf) / [Paper](https://arxiv.org/abs/2307.03132)
 - *What Do We Learn from Inverting CLIP Models?* <br> [Slides](pdf/clip_inversion.pdf) / [Paper](https://arxiv.org/abs/2403.02580)
 - *GLIGEN: Open-Set Grounded Text-to-Image Generation* <br> [Slides](pdf/gligen.pdf) / [Paper](https://arxiv.org/abs/2301.07093)
 - *SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis* <br> [Slides](pdf/sdxl.pdf) / [Paper](https://openreview.net/forum?id=di52zR8xgf)
