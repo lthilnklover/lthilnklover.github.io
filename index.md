@@ -7,7 +7,7 @@ I am a Ph.D. student of Mathematical Sciences at Seoul National University, advi
 ## Publications 
 
 [LoRA can Replace Time and Class Embeddings in Diffusion Probabilistic Models](pdf/lora_diffusion.pdf)
-Joo Young Choi, Jaesung Park, Inkyu Park, Jaewoong Choi, Albert No, Ernest K. Ryu. *NeurIPS 2023 Workshop on Diffusion Models*
+Joo Young Choi, Jaesung Park, Inkyu Park, Jaewoong Cho, Albert No, Ernest K. Ryu. *NeurIPS 2023 Workshop on Diffusion Models*
 
 [Diffusion Probabilistic Models Generalize when They Fail to Memorize](https://openreview.net/forum?id=shciCbSk9h)
 TaeHo Yoon, Joo Young Choi, Sehyun Kwon, Ernest K. Ryu. *ICML 2023 Workshop SPIGM*
