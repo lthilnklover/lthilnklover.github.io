@@ -6,6 +6,9 @@ I am a Ph.D. student of Mathematical Sciences at Seoul National University, advi
 
 ## Publications 
 
+[Simple Drop-in LoRA Conditioning on Attention Layers Will Improve Your Diffusion Model](https://arxiv.org/abs/2405.03958)
+Joo Young Choi, Jaesung R. Park, Inkyu Park, Jaewoong Cho, Albert No, Ernest K. Ryu *Manuscript*
+
 [LoRA can Replace Time and Class Embeddings in Diffusion Probabilistic Models](pdf/lora_diffusion.pdf)
 Joo Young Choi, Jaesung Park, Inkyu Park, Jaewoong Cho, Albert No, Ernest K. Ryu. *NeurIPS 2023 Workshop on Diffusion Models*
 
