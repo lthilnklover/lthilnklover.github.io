@@ -3,6 +3,9 @@ logo: "/images/IMG_3799.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Ph.D. Student, Mathematical Sciences, Seoul National University
   <br>
+author:
+  name: Joo Young Choi
+  url: https://lthilnklover.github.io/
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
