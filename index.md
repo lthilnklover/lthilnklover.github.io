@@ -46,6 +46,12 @@ B.S in Mathematics
 - Topics in Applied Mathematics: Infinitely Large Neural Networks, 3341.751, Spring 2022.
 - Mathematical Foundations of Deep Neural Networks, M1407.001200, Fall 2021.
 
+___
+
+## Contact
+
+lthilnklover@snu.ac.kr
+choijy0402@gmail.com
 
 
 
