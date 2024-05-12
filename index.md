@@ -1,11 +1,9 @@
-## 
+## About
 
 I am a Ph.D. student of Mathematical Sciences at Seoul National University, advised by Professor [Ernest K. Ryu](https://ernestryu.com). My current interest is in generative models, especially diffusion probabilistic models and large language models.
 
-### Contact
 
-- lthilnklover@snu.ac.kr
-- choijy0402@gmail.com
+**Contact** lthilnklover@snu.ac.kr / choijy0402@gmail.com
 
 
 ## Publications 
