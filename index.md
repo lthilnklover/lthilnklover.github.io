@@ -28,7 +28,7 @@ Jongmin Lee, Joo Young Choi, Ernest K. Ryu, Albert No. *ICML 2022*
 ---
 ## Education
 
-**Seoul National University** (September 2018 - )
+**Seoul National University** (September 2018 - Feburary 2025 (expected))
 <br>
 Ph.D in Mathematical Sciences
 
