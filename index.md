@@ -1,6 +1,6 @@
 ## About
 
-I am a Ph.D. student of Mathematical Sciences at Seoul National University, advised by Professor [Ernest K. Ryu](https://ernestryu.com) (currently at UCLA). My current interest is in generative models, especially diffusion probabilistic models and large language models.
+I am a Ph.D. student of Mathematical Sciences at Seoul National University, advised by [Ernest K. Ryu](https://ernestryu.com) (currently at UCLA), and deep learning engineer at [KRAFTON AI](https://www.krafton.ai/ko/). My current interest is in generative models, especially diffusion probabilistic models and large language models.
 
 
 :email: lthilnklover@snu.ac.kr / choijy0402@gmail.com
@@ -10,7 +10,7 @@ I am a Ph.D. student of Mathematical Sciences at Seoul National University, advi
 ## Publications 
 
 [Simple Drop-in LoRA Conditioning on Attention Layers Will Improve Your Diffusion Model](https://arxiv.org/abs/2405.03958)
-Joo Young Choi, Jaesung R. Park, Inkyu Park, Jaewoong Cho, Albert No, Ernest K. Ryu. *TMLR*
+Joo Young Choi, Jaesung R. Park, Inkyu Park, Jaewoong Cho, Albert No, Ernest K. Ryu. *TMLR 2024*
 
 
 [LoRA can Replace Time and Class Embeddings in Diffusion Probabilistic Models](pdf/lora_diffusion.pdf)
@@ -42,8 +42,14 @@ B.S in Mathematics
 
 ## Experience
 
-**Teaching Assistant** (Seoul National University)
+**KRAFTON AI** (October 2024 -)
+<br>
+*Deep Learning Engineer, Art Research DL Team*
 
+**Seoul National University** 
+<br>
+*Teaching Assistant, Department of Mathematical Sciences*
+<br>
 - Topics in Machine Intelligence: Generative AI and Foundation Models, M3309.001800, Spring 2024.
 - Mathematical Foundations of Deep Neural Networks, M1407.001200, Fall 2022. [Outstanding TA Award](http://www.math.snu.ac.kr/board/index.php?mid=page_iFgL02)
 - Topics in Applied Mathematics: Infinitely Large Neural Networks, 3341.751, Spring 2022.
