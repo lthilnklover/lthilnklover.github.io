@@ -44,11 +44,11 @@ B.S in Mathematics
 
 **KRAFTON AI** (October 2024 -)
 <br>
-*Deep Learning Engineer, Art Research DL Team*
+Deep Learning Engineer, Art Research DL Team
 
 **Seoul National University** 
 <br>
-*Teaching Assistant, Department of Mathematical Sciences*
+Teaching Assistant, Department of Mathematical Sciences
 <br>
 - Topics in Machine Intelligence: Generative AI and Foundation Models, M3309.001800, Spring 2024.
 - Mathematical Foundations of Deep Neural Networks, M1407.001200, Fall 2022. [Outstanding TA Award](http://www.math.snu.ac.kr/board/index.php?mid=page_iFgL02)
