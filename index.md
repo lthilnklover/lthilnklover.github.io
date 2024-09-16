@@ -49,7 +49,6 @@ Deep Learning Engineer, Art Research DL Team
 **Seoul National University** 
 <br>
 Teaching Assistant, Department of Mathematical Sciences
-<br>
 - Topics in Machine Intelligence: Generative AI and Foundation Models, M3309.001800, Spring 2024.
 - Mathematical Foundations of Deep Neural Networks, M1407.001200, Fall 2022. [Outstanding TA Award](http://www.math.snu.ac.kr/board/index.php?mid=page_iFgL02)
 - Topics in Applied Mathematics: Infinitely Large Neural Networks, 3341.751, Spring 2022.
