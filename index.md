@@ -9,7 +9,7 @@ I am a Ph.D. student of Mathematical Sciences at Seoul National University, advi
 
 ## Publications 
 
-[Simple Drop-in LoRA Conditioning on Attention Layers Will Improve Your Diffusion Model](https://arxiv.org/abs/2405.03958)
+[Simple Drop-in LoRA Conditioning on Attention Layers Will Improve Your Diffusion Model](https://openreview.net/forum?id=38P40gJPrI)
 Joo Young Choi, Jaesung R. Park, Inkyu Park, Jaewoong Cho, Albert No, Ernest K. Ryu. *TMLR 2024*
 
 
