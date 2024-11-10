@@ -57,6 +57,10 @@ Teaching Assistant, Department of Mathematical Sciences
 - Topics in Applied Mathematics: Infinitely Large Neural Networks, 3341.751, Spring 2022.
 - Mathematical Foundations of Deep Neural Networks, M1407.001200, Fall 2021.
 
+**Peer Review**
+<br>
+[ICLR 2025](https://iclr.cc/)
+
 
 
 
