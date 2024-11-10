@@ -59,7 +59,7 @@ Teaching Assistant, Department of Mathematical Sciences
 
 **Peer Review**
 <br>
-[ICLR 2025](https://iclr.cc/)
+- ICLR 2025
 
 
 
