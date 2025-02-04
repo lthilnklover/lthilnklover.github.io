@@ -1,9 +1,11 @@
 ## About
 
-I am a Ph.D. student of Mathematical Sciences at Seoul National University, advised by [Ernest K. Ryu](https://ernestryu.com) (currently at UCLA), and deep learning engineer at [KRAFTON AI](https://www.krafton.ai/ko/). My current interest is in generative models, especially diffusion probabilistic models and large language models.
+I am a deep learning engineer at [KRAFTON AI](https://www.krafton.ai/ko/). My current interest is in generative models, especially diffusion probabilistic models and large language models.
+
+I received my Ph.D. in Mathematical Sciences from Seoul National University, where I was advised by Ernest K. Ryu (currently at UCLA).
 
 
-:email: lthilnklover@snu.ac.kr / choijy0402@gmail.com
+:email: jychoi@krafton.com / choijy0402@gmail.com
 
 ---
 
@@ -31,7 +33,7 @@ Jongmin Lee, Joo Young Choi, Ernest K. Ryu, Albert No. *ICML 2022*
 ---
 ## Education
 
-**Seoul National University** (September 2018 - Feburary 2025 (expected))
+**Seoul National University** (September 2018 - Feburary 2025)
 <br>
 Ph.D in Mathematical Sciences
 
