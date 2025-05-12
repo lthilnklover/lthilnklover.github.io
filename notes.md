@@ -3,6 +3,7 @@
 
 Study of papers that are of personal interest
 
+- *History-Guided Video Diffusion* <br> [Slides](pdf/history_guided_diffusion.pdf) / [Paper](https://arxiv.org/abs/2502.06764)
 - *Flowing from Words to Pixels: A Framework for Cross-Modality Evolution* <br> [Slides](pdf/crossflow.pdf) / [Paper](https://cross-flow.github.io/)
 - *Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention* <br> [Slides](pdf/infini-attention.pdf) / [Paper](https://arxiv.org/abs/2404.07143)
 - *T-MARS: Improving Visual Representations by Circumventing Text Feature Learning* <br> [Slides](pdf/t-mars.pdf) / [Paper](https://arxiv.org/abs/2307.03132)
