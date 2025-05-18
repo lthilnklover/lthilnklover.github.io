@@ -12,7 +12,7 @@ I received my Ph.D. in Mathematical Sciences from Seoul National University, whe
 ## Publications 
 
 [Task Diversity Shortens the ICL Plateau](https://arxiv.org/abs/2410.05448)
-Jaeyeon Kim, Sehyun Kwon, Joo Young Choi, Jongho Park, Jaewoong Cho, Jason D. Lee, Ernest K. Ryu. *Manuscript*
+Jaeyeon Kim&ast;, Sehyun Kwon&ast;, Joo Young Choi, Jongho Park, Jaewoong Cho, Jason D. Lee, Ernest K. Ryu. *Manuscript*
 
 [Simple Drop-in LoRA Conditioning on Attention Layers Will Improve Your Diffusion Model](https://openreview.net/forum?id=38P40gJPrI)
 Joo Young Choi, Jaesung R. Park, Inkyu Park, Jaewoong Cho, Albert No, Ernest K. Ryu. *TMLR 2024*
