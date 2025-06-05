@@ -2,7 +2,7 @@
 
 I am a deep learning engineer at [KRAFTON AI](https://www.krafton.ai/ko/). My current interest is in generative models, especially diffusion probabilistic models and large language models.
 
-I received my Ph.D. in Mathematical Sciences from Seoul National University, where I was advised by professor [Ernest K. Ryu](ernestryu.com) (currently at UCLA).
+I received my Ph.D. in Mathematical Sciences from Seoul National University, where I was advised by professor [Ernest K. Ryu](https://ernestryu.com) (currently at UCLA).
 
 
 :email: jychoi@krafton.com / choijy0402@gmail.com
