@@ -3,6 +3,7 @@
 
 Study of papers that are of personal interest
 
+- *Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions* <br> [Slides](pdf/train_for_the_worst.pdf) / [Paper](https://arxiv.org/abs/2502.06768)
 - *History-Guided Video Diffusion* <br> [Slides](pdf/history_guided_diffusion.pdf) / [Paper](https://arxiv.org/abs/2502.06764)
 - *Flowing from Words to Pixels: A Framework for Cross-Modality Evolution* <br> [Slides](pdf/crossflow.pdf) / [Paper](https://cross-flow.github.io/)
 - *Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention* <br> [Slides](pdf/infini-attention.pdf) / [Paper](https://arxiv.org/abs/2404.07143)
