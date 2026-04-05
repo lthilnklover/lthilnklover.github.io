@@ -52,8 +52,6 @@ B.S in Mathematics
 
 **KRAFTON AI** (October 2024 -)
 <br>
-Deep Learning Engineer, AI Art Gen Team
-<br>
 Deep Learning Researcher, Applied Research Team
 
 **Seoul National University** 
