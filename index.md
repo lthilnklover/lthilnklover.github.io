@@ -1,6 +1,6 @@
 ## About
 
-I am a deep learning engineer/researcher at [KRAFTON AI](https://www.krafton.ai/ko/). My current interest is in generative models, especially diffusion probabilistic models and large language models.
+I am a deep learning engineer/researcher at [KRAFTON AI](https://www.krafton.ai/). My current interest is in generative models, especially diffusion probabilistic models and large language models.
 
 I received my Ph.D. in Mathematical Sciences from Seoul National University, where I was advised by professor [Ernest K. Ryu](https://ernestryu.com) (currently at OpenAI).
 
