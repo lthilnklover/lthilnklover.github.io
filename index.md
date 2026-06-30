@@ -55,7 +55,7 @@ B.S in Mathematics
 
 **KRAFTON AI** (October 2024 -)
 <br>
-Deep Learning Researcher, Applied Research Team
+Deep Learning Researcher, AI Research Div.
 
 **Seoul National University** 
 <br>
