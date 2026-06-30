@@ -11,6 +11,9 @@ I received my Ph.D. in Mathematical Sciences from Seoul National University, whe
 
 ## Publications 
 
+[Every Dog Has Its Day, Probably: A Balanced Synthetic Benchmark and Probabilistic Modeling for 3D Dog Pose Estimation](https://huggingface.co/datasets/1Konny/B-DoPED/)
+Joo Young Choi\*, Wonkwang Lee\*, Ju-hyeong Seon, Gunhee Kim. *ECCV 2026*
+
 [Raon-VisionEncoder: A Vision Encoder for Raon](https://krafton-ai.github.io/blog/posts/2026-04-02-raon_vision_encoder/raon-visionencoder-en.html)
 Jungseok Cho, Joo Young Choi\*, Han EunGi, Hyunjin Kim\*, Jaeah Lee, Hakyoung Lee, Seonho Lee, Suekyeong Nam, Soohwan Park\*, Sungchan Park, Juhyeong Sun, Moonwon Yu. *Tech Blog*
 
@@ -64,6 +67,7 @@ Teaching Assistant, Department of Mathematical Sciences
 
 **Peer Review**
 <br>
+- NeurIPS 2026
 - ICLR 2025, 2026
 - SIGGRAPH ASIA 2025
 
