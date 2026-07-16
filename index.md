@@ -15,7 +15,7 @@ I received my Ph.D. in Mathematical Sciences from Seoul National University, whe
 Joo Young Choi\*, Wonkwang Lee\*, Juhyeong Seon, Gunhee Kim. *ECCV 2026*
 
 [Raon-VisionEncoder: A Vision Encoder for Raon](https://krafton-ai.github.io/blog/posts/2026-04-02-raon_vision_encoder/raon-visionencoder-en.html)
-Jungseok Cho, Joo Young Choi\*, Han EunGi, Hyunjin Kim\*, Jaeah Lee, Hakyoung Lee, Seonho Lee, Suekyeong Nam, Soohwan Park\*, Sungchan Park, Juhyeong Sun, Moonwon Yu. *Tech Blog*
+Jungseok Cho, Joo Young Choi\*, Han EunGi, Hyunjin Kim\*, Jaeah Lee, Hakyoung Lee, Seonho Lee, Suekyeong Nam, Soohwan Park\*, Sungchan Park, Juhyeong Sun, Moonwon Yu. *Tech Blog 2026*
 
 [Task Diversity Shortens the ICL Plateau](https://arxiv.org/abs/2410.05448)
 Jaeyeon Kim\*, Sehyun Kwon\*, Joo Young Choi, Jongho Park, Jaewoong Cho, Jason D. Lee, Ernest K. Ryu. *TMLR 2025*
